@@ -1,0 +1,14 @@
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.AssemblyReference.cache
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\University_work\OAP\2kyrs\Labs\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
